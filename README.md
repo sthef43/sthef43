@@ -89,8 +89,8 @@ const developer = {
 ## GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&hide_border=true&theme=transparent" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&hide_border=true&theme=transparent" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sthef43&show_icons=true&hide_border=true&theme=transparent" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sthef43&layout=compact&hide_border=true&theme=transparent" />
 </p>
 
 ---
@@ -100,9 +100,6 @@ const developer = {
 ### Enterprise Management System
 Full Stack platform built with React, TypeScript, NestJS and PostgreSQL.
 
-### Industrial Operations Dashboard
-Real-time monitoring dashboard focused on operational metrics and data visualization.
-
 ### Component Library
 Reusable design system built with React, TypeScript and Storybook.
 
@@ -110,9 +107,8 @@ Reusable design system built with React, TypeScript and Storybook.
 
 ## Contact
 
-- LinkedIn: YOUR_LINKEDIN
-- Portfolio: YOUR_PORTFOLIO
-- Email: YOUR_EMAIL
+- LinkedIn: Sthefano Zurita
+- Email: sthefzurita43@gmail.com
 
 ---
 
