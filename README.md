@@ -19,7 +19,6 @@ I build modern web applications with a strong focus on performance, maintainabil
 - 🏗️ Building scalable frontend architectures
 - 🔧 Backend development with NestJS & Node.js
 - 🐧 Linux enthusiast
-- ⛏️ Interested in Industrial & Mining Technology
 
 ---
 
@@ -48,20 +47,6 @@ I build modern web applications with a strong focus on performance, maintainabil
 <p align="center">
   <img src="https://skillicons.dev/icons?i=docker,linux,git,github,githubactions,bash" />
 </p>
-
----
-
-## 📈 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sthef43&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sthef43&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
 
 ## 🎯 Current Focus
 
