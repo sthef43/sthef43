@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Renzo%20Zurita&fontSize=50&fontAlignY=40&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20React%20%26%20TypeScript&descAlignY=60" />
-
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Renzo" />
 </div>
 
 # 👋 Hello, I'm Renzo
