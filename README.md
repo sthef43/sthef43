@@ -1,37 +1,37 @@
-<h1 align="center">Renzo Zurita</h1>
+<div align="center">
 
-<p align="center">
-  Full Stack Developer • React Specialist • TypeScript Enthusiast
-</p>
+# Renzo Zurita
 
-<p align="center">
-  Building scalable web applications with modern frontend architectures and robust backend solutions.
-</p>
+### Full Stack Developer • React Specialist • TypeScript Developer
+
+Building scalable web applications, modern user interfaces and robust backend services.
+
+</div>
 
 ---
 
 ## About Me
 
-Full Stack Developer focused on creating maintainable, scalable, and high-performance web applications.
+I'm a Full Stack Developer focused on building maintainable, scalable and high-performance software.
 
-My primary expertise lies in the React ecosystem, TypeScript development, and backend services built with Node.js and NestJS. I enjoy designing software architectures, improving developer experience, and building products that solve real business problems.
+My main expertise is in the React ecosystem, TypeScript development and backend services with NestJS and Node.js. I enjoy designing clean architectures, improving developer experience and delivering solutions that create real business value.
 
-Currently expanding my knowledge in:
+Currently interested in:
 
 - Software Architecture
-- Distributed Systems
-- Cloud Infrastructure
-- Industrial & Mining Software Solutions
-- DevOps Practices
+- Cloud & DevOps
+- Enterprise Applications
+- Industrial Software Solutions
+- Mining Technology & Digital Transformation
 
 ---
 
-## Core Technologies
+## Tech Stack
 
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,ts,nextjs,tailwind,vite,redux" />
+  <img src="https://skillicons.dev/icons?i=react,ts,nextjs,vite,redux,tailwind,materialui" />
 </p>
 
 ### Backend
@@ -49,61 +49,91 @@ Currently expanding my knowledge in:
 ### DevOps & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,linux,git,github,githubactions" />
+  <img src="https://skillicons.dev/icons?i=docker,linux,git,github,githubactions,bash" />
 </p>
 
 ---
 
-## Technical Expertise
-
-- Frontend architecture with React and TypeScript
-- Design Systems and reusable component libraries
-- REST API development with NestJS
-- Database design and optimization
-- Authentication and authorization systems
-- Application performance optimization
-- Clean Architecture and SOLID principles
-- CI/CD workflows and containerized deployments
-
----
-
-## Professional Philosophy
+## Technical Focus
 
 ```typescript
-const developer = {
-  name: "Renzo Zurita",
+const renzo = {
   role: "Full Stack Developer",
-  specialization: "React & TypeScript",
-  principles: [
-    "Clean Code",
-    "Scalability",
-    "Maintainability",
-    "Performance",
-    "Continuous Learning"
+  frontend: [
+    "React",
+    "TypeScript",
+    "Next.js",
+    "TailwindCSS"
+  ],
+  backend: [
+    "NestJS",
+    "Node.js",
+    "REST APIs"
+  ],
+  database: [
+    "PostgreSQL",
+    "MySQL"
+  ],
+  tools: [
+    "Docker",
+    "Linux",
+    "GitHub Actions"
+  ],
+  interests: [
+    "Software Architecture",
+    "Industrial Systems",
+    "Mining Technology"
   ]
 };
 ```
 
 ---
----
 
-## Featured Projects
+## GitHub Analytics
 
-### Enterprise Management System
-Full Stack platform built with React, TypeScript, NestJS and PostgreSQL.
+<div align="center">
 
-### Component Library
-Reusable design system built with React, TypeScript and Storybook.
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sthef43&show_icons=true&hide_border=true&theme=transparent" />
 
----
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sthef43&layout=compact&hide_border=true&theme=transparent" />
 
-## Contact
-
-- LinkedIn: Sthefano Zurita
-- Email: sthefzurita43@gmail.com
+</div>
 
 ---
 
-<p align="center">
-  Focused on building software that creates measurable impact.
+## Professional Goals
+
+- Develop enterprise-grade applications.
+- Master software architecture and design patterns.
+- Build scalable cloud-native solutions.
+- Contribute to industrial and mining digitalization projects.
+- Continue growing as a Full Stack Engineer.
+
+---
+
+## Current Learning Path
+
+- Advanced TypeScript
+- Clean Architecture
+- Docker & Containerization
+- Linux Administration
+- Industrial Software Development
+- Cloud Infrastructure
+
+---
+
+## Connect With Me
+
+<p>
+  <a href="https://github.com/sthef43">
+    GitHub
+  </a>
 </p>
+
+---
+
+<div align="center">
+
+*"Great software is built through consistency, simplicity and continuous improvement."*
+
+</div>
