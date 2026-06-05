@@ -1,132 +1,104 @@
 <div align="center">
 
-# Renzo Zurita
-
-### Full Stack Developer • React Specialist • TypeScript Developer
-
-Building scalable web applications, modern user interfaces and robust backend services.
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Renzo%20Zurita&fontSize=50&fontAlignY=40&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20React%20%26%20TypeScript&descAlignY=60" />
 
 </div>
 
----
+# 👋 Hello, I'm Renzo
 
-## About Me
+### Full Stack Developer focused on React, TypeScript and scalable software solutions.
 
-I'm a Full Stack Developer focused on building maintainable, scalable and high-performance software.
-
-My main expertise is in the React ecosystem, TypeScript development and backend services with NestJS and Node.js. I enjoy designing clean architectures, improving developer experience and delivering solutions that create real business value.
-
-Currently interested in:
-
-- Software Architecture
-- Cloud & DevOps
-- Enterprise Applications
-- Industrial Software Solutions
-- Mining Technology & Digital Transformation
+I build modern web applications with a strong focus on performance, maintainability and user experience.
 
 ---
 
-## Tech Stack
+## 🚀 About Me
+
+- 💻 Full Stack Developer
+- ⚛️ Specialized in React & TypeScript
+- 🏗️ Building scalable frontend architectures
+- 🔧 Backend development with NestJS & Node.js
+- 🐧 Linux enthusiast
+- ⛏️ Interested in Industrial & Mining Technology
+
+---
+
+## 🛠️ Tech Stack
 
 ### Frontend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,ts,nextjs,vite,redux,tailwind,materialui" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,ts,nextjs,vite,redux,tailwind" />
 </p>
 
 ### Backend
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express" />
 </p>
 
-### Databases
+### Database
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
 </p>
 
 ### DevOps & Tools
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=docker,linux,git,github,githubactions,bash" />
 </p>
 
 ---
 
-## Technical Focus
+## 📈 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sthef43&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sthef43&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🎯 Current Focus
 
 ```typescript
-const renzo = {
-  role: "Full Stack Developer",
-  frontend: [
-    "React",
-    "TypeScript",
-    "Next.js",
-    "TailwindCSS"
-  ],
-  backend: [
-    "NestJS",
-    "Node.js",
-    "REST APIs"
-  ],
-  database: [
-    "PostgreSQL",
-    "MySQL"
-  ],
-  tools: [
-    "Docker",
-    "Linux",
-    "GitHub Actions"
-  ],
-  interests: [
+const currentFocus = {
+  frontend: ["React", "TypeScript", "Next.js"],
+  backend: ["NestJS", "Node.js"],
+  databases: ["PostgreSQL"],
+  devops: ["Docker", "Linux"],
+  learning: [
     "Software Architecture",
-    "Industrial Systems",
-    "Mining Technology"
+    "Cloud Computing",
+    "Industrial Software"
   ]
 };
 ```
 
 ---
 
-## GitHub Analytics
+## 🌟 Featured Skills
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sthef43&show_icons=true&hide_border=true&theme=transparent" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sthef43&layout=compact&hide_border=true&theme=transparent" />
-
-</div>
-
----
-
-## Professional Goals
-
-- Develop enterprise-grade applications.
-- Master software architecture and design patterns.
-- Build scalable cloud-native solutions.
-- Contribute to industrial and mining digitalization projects.
-- Continue growing as a Full Stack Engineer.
+```text
+Frontend Development    ████████████████ 95%
+TypeScript              ████████████████ 95%
+React Ecosystem         ████████████████ 95%
+Backend Development     ██████████████░░ 85%
+Database Design         █████████████░░░ 80%
+DevOps                  ██████████░░░░░░ 65%
+```
 
 ---
 
-## Current Learning Path
+## 📫 Connect With Me
 
-- Advanced TypeScript
-- Clean Architecture
-- Docker & Containerization
-- Linux Administration
-- Industrial Software Development
-- Cloud Infrastructure
-
----
-
-## Connect With Me
-
-<p>
+<p align="center">
   <a href="https://github.com/sthef43">
-    GitHub
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
   </a>
 </p>
 
@@ -134,6 +106,8 @@ const renzo = {
 
 <div align="center">
 
-*"Great software is built through consistency, simplicity and continuous improvement."*
+### Building software with purpose.
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=gradient" />
