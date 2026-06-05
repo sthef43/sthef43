@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Sthefano Zurita" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Sthefano" />
 </div>
 
 # 👋 Hello, I'm Sthefano
