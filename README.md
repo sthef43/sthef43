@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Renzo" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Sthefano Zurita" />
 </div>
 
-# 👋 Hello, I'm Renzo
+# 👋 Hello, I'm Sthefano
 
 ### Full Stack Developer focused on React, TypeScript and scalable software solutions.
 
